@@ -1,4 +1,4 @@
-# Bonjour, je suis Awatif Bechir 👋
+# Bonjour, je suis Awatif Bechir 
 
 Étudiante en M1 Économie de l'entreprise et des marchés — Parcours Big Data, Analyse & BI
 à l'Université Sorbonne Paris Nord (Villetaneuse).
