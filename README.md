@@ -167,16 +167,4 @@ Ouverte à toute collaboration sur des projets **Data Engineering**, **Machine L
 
 </div>
 
----
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:9B59B6,100:D2B4DE&height=100&section=footer"/>
-</div>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:9B59B6,100:D2B4DE&height=100&section=footer"/>
-</div>
