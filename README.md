@@ -2,7 +2,7 @@
 
 <!-- BANNIÈRE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:9B59B6,100:D2B4DE&height=200&section=header&text=Awatif%20Bechir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20BI%20%7C%20Big%20Data&descAlignY=55&descSize=20" />
-
+ 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Étudiante+M1+BIDABI+—+Sorbonne+Paris+Nord;Big+Data+%7C+Machine+Learning+%7C+Business+Intelligence;Pipeline+Kafka+%7C+Elasticsearch+%7C+Docker;Passionnée+par+la+Data+%26+la+Transformation+Digitale" />
 
