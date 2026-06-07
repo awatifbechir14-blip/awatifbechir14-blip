@@ -109,39 +109,83 @@ Je m'intéresse aussi à la **transformation digitale des entreprises** dans des
 
 ## 🚀 Projets
 
-### 🫀 [Système de Surveillance Cardiaque en Temps Réel](https://github.com/awatifbechir14-blip/Projet-DataScience-)
-> Pipeline Big Data complet de monitoring de la pression artérielle patient
+> 💡 Clique sur une carte pour accéder directement au code, aux notebooks, aux fichiers et à la documentation de chaque projet.
 
-Architecture de streaming avec **Apache Kafka** (Producer/Consumer), détection automatique d'anomalies (hypertension / hypotension selon seuils médicaux FHIR), indexation dans **Elasticsearch** et visualisation temps réel dans un dashboard **Kibana** — orchestré via **Docker Compose**.
+<br/>
 
-`Python` `Kafka` `Elasticsearch` `Kibana` `Docker` `Faker`
+### 🔴 Big Data & Streaming
 
----
+<div align="center">
 
-### 🤖 [Pipeline de Traduction Automatique FR→EN + Évaluation BLEU](https://github.com/awatifbechir14-blip/ml_project)
-> Pipeline ML modulaire avec CI/CD GitHub Actions
+[![Projet-DataScience-](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=Projet-DataScience-&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/Projet-DataScience-)
+[![bidabi-projet-bigdata](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-projet-bigdata&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-projet-bigdata)
+[![bigdata-clone-public](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bigdata-clone-public&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bigdata-clone-public)
 
-Implémentation d'un pipeline de traduction français → anglais avec le modèle **HelsinkiNLP/opus-mt-fr-en** (HuggingFace). Architecture en couches (loaders, translators, processors, evaluators, orchestrator), évaluation via la métrique **BLEU**, tests unitaires avec **pytest**, formatage **black**, et pipeline CI/CD **GitHub Actions**.
+</div>
 
-`Python` `HuggingFace Transformers` `BLEU` `pytest` `GitHub Actions` `Cookiecutter`
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [🫀 Surveillance Cardiaque](https://github.com/awatifbechir14-blip/Projet-DataScience-) | Pipeline temps réel : Kafka → Elasticsearch → Kibana. Détection d'anomalies tensionnelles (seuils FHIR) via Docker Compose | `Python` `Kafka` `Elasticsearch` `Kibana` `Docker` |
+| [📦 BIDABI Projet Big Data](https://github.com/awatifbechir14-blip/bidabi-projet-bigdata) | Projet académique Big Data — architecture distribuée, traitement de données à grande échelle | `Python` `Big Data` `Distributed Computing` |
+| [🔁 Big Data Clone Public](https://github.com/awatifbechir14-blip/bigdata-clone-public) | Implémentation et reproduction d'un pipeline Big Data dans un contexte pédagogique | `Python` `Big Data` |
 
----
+<br/>
 
-### 🧠 [BIDABI Clone → Adapt → Create (Deep Learning)](https://github.com/awatifbechir14-blip/bidabi-clone-alone)
-> Fine-tuning ResNet18 avec dataset d'images personnalisé
+### 🤖 Machine Learning & Deep Learning
 
-Pipeline complet d'entraînement d'un modèle de vision par ordinateur (**ResNet18 fine-tuné**), avec création d'un dataset d'images personnalisé. Gestion des données avec **DVC** pour la reproductibilité, versioning du modèle, structure modulaire.
+<div align="center">
 
-`Python` `ResNet18` `DVC` `Deep Learning` `Image Classification`
+[![ml_project](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=ml_project&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/ml_project)
+[![bidabi-clone-alone](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-clone-alone&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-clone-alone)
+[![bidabi-clone-adapt-create](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-clone-adapt-create&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-clone-adapt-create)
 
----
+</div>
 
-### 🗃️ [ClassicModels SQL Analytics](https://github.com/awatifbechir14-blip/classicmodels-analysis)
-> Analyse avancée d'une base de données MySQL
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [🤖 ML Pipeline FR→EN](https://github.com/awatifbechir14-blip/ml_project) | Pipeline de traduction automatique HelsinkiNLP, évaluation BLEU, tests pytest, CI/CD GitHub Actions | `Python` `HuggingFace` `BLEU` `pytest` `GitHub Actions` |
+| [🧠 BIDABI Clone Alone](https://github.com/awatifbechir14-blip/bidabi-clone-alone) | Fine-tuning ResNet18 sur dataset personnalisé, versioning DVC, structure reproductible | `Python` `ResNet18` `DVC` `Deep Learning` |
+| [🔬 Clone → Adapt → Create](https://github.com/awatifbechir14-blip/bidabi-clone-adapt-create) | Progression pédagogique ML : cloner un modèle, l'adapter, en créer un nouveau | `Python` `ML` `DVC` |
 
-Requêtes SQL avancées sur la base ClassicModels : **window functions**, CTEs, triggers, stored procedures. Visualisations Python des résultats avec pandas, seaborn et matplotlib.
+<br/>
 
-`MySQL` `Python` `Pandas` `Seaborn` `SQL avancé`
+### 🗄️ SQL, Bases de Données & Analyse
+
+<div align="center">
+
+[![classicmodels-analysis](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=classicmodels-analysis&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/classicmodels-analysis)
+[![SQL_cours](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=SQL_cours&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/SQL_cours)
+
+</div>
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [🗃️ ClassicModels Analysis](https://github.com/awatifbechir14-blip/classicmodels-analysis) | Requêtes avancées MySQL : window functions, CTEs, triggers, stored procedures + visualisations Python | `MySQL` `Python` `Pandas` `Seaborn` |
+| [📚 SQL Cours](https://github.com/awatifbechir14-blip/SQL_cours) | Notebooks et exercices SQL progressifs — DDL, DML, DQL, fonctions avancées | `SQL` `MySQL` |
+
+<br/>
+
+### 📊 Data Visualisation & R
+
+<div align="center">
+
+[![Projet-R-Dataviz](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=Projet-R-Dataviz&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/Projet-R-Dataviz)
+
+</div>
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [📈 Projet R Dataviz](https://github.com/awatifbechir14-blip/Projet-R-Dataviz) | Visualisations statistiques avancées en R : modèles Logit ordonné/binaire, graphiques ggplot2, analyse EURO STOXX 600 & Yuka | `R` `ggplot2` `Logit` `Econométrie` |
+
+<br/>
+
+### 🖥️ Autres
+
+<div align="center">
+
+[![desktop-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=desktop-tutorial&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/desktop-tutorial)
+
+</div>
 
 ---
 
@@ -167,4 +211,9 @@ Ouverte à toute collaboration sur des projets **Data Engineering**, **Machine L
 
 </div>
 
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:9B59B6,100:D2B4DE&height=100&section=footer"/>
+</div>
 
