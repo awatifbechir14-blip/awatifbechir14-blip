@@ -1,43 +1,39 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3461,50:2F5597,100:9BB7E0&height=200&section=header&text=Awatif%20Bechir%20Youssouf&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Big%20Data&descAlignY=55&descSize=20" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:9B59B6,100:D2B4DE&height=200&section=header&text=Awatif%20Bechir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20BI%20%7C%20Big%20Data&descAlignY=55&descSize=20" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F5597&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%C3%89tudiante+M2+BIDABI+%E2%80%94+Sorbonne+Paris+Nord;Data+Analyse+%7C+Business+Intelligence+%7C+Big+Data;Recherche+un+stage+de+fin+d'%C3%A9tudes+%E2%80%94+mars+2027;Transformer+la+donn%C3%A9e+en+d%C3%A9cisions+concr%C3%A8tes" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Étudiante+M1+BIDABI+—+Sorbonne+Paris+Nord;Big+Data+%7C+Machine+Learning+%7C+Business+Intelligence;Pipeline+Kafka+%7C+Elasticsearch+%7C+Docker;Passionnée+par+la+Data+%26+la+Transformation+Digitale" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awatif%20Bechir%20Youssouf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awatif-bechir-youssouf-447813258/)
+[![GitHub](https://img.shields.io/badge/GitHub-awatifbechir14--blip-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awatifbechir14-blip)
+[![Email](https://img.shields.io/badge/Email-awatifbechir14@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awatifbechir14@gmail.com)
 
-<br/>
+---
 
-<a href="https://www.linkedin.com/in/awatif-bechir-447813258/">
-  <img src="https://img.shields.io/badge/LinkedIn-Awatif%20Bechir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/awatifbechir14-blip">
-  <img src="https://img.shields.io/badge/GitHub-awatifbechir14--blip-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=awatifbechir14-blip&style=for-the-badge&color=9B59B6&label=PROFILE+VIEWS"/>
+## 🎯 Recherche de stage
 
-</div>
+> **Stage de fin d'études — 6 mois, à partir de mars 2027**
+> Data Analyse · Business Intelligence · Data & Méthodes
+> Île-de-France · Mobile en France métropolitaine
 
 ---
 
 ## 👩‍💻 À propos de moi
 
-Je suis **Awatif Bechir**, étudiante en **M1 Économie de l'Entreprise et des Marchés — Parcours BIDABI** *(Big Data, Analyse & Business Intelligence)* à l'**Université Sorbonne Paris Nord**.
+Je suis **Awatif Bechir Youssouf**, étudiante en **M2 Économie de l'entreprise et des marchés — parcours BIDABI** *(Big Data, Analyse & Business Intelligence)* à l'**Université Sorbonne Paris Nord**, après une **Double Licence Mathématiques-Économie** (Université Évry Paris-Saclay).
 
-Mon approche est résolument pratique : je construis des pipelines de données, je conçois des architectures Big Data, j'entraîne des modèles de ML, et je traduis les résultats en insights compréhensibles pour les décideurs.
+Ce que j'aime dans la data, c'est aller **au-delà des chiffres** : comprendre ce qu'ils signifient pour le métier. Concrètement, je **collecte, nettoie et fusionne** des sources de données, je les **analyse**, puis j'en tire des **indicateurs, des tableaux de bord et des recommandations** que je sais expliquer simplement.
 
-Je m'intéresse aussi à la **transformation digitale des entreprises** dans des contextes à ressources limitées — notamment pour le secteur logistique en Afrique subsaharienne.
+Je m'intéresse aussi à la **transformation digitale des entreprises** dans des contextes à ressources limitées, notamment pour le secteur logistique en Afrique subsaharienne.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=awatifbechir14-blip&bg_color=0D1117&color=9B59B6&line=9B59B6&point=D2B4DE&hide_border=true" width="100%"/>
+🔭 **En ce moment** : économétrie de panel sur l'aide publique au développement · Word2Vec et PageRank · Clean Code et POO Python
+🌱 **Je me forme à** : Power BI (DAX, Power Query) · Dataiku
+📜 **Certifications en préparation** : Microsoft Power BI · Dataiku Core Designer
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
 
-<div align="center">
-
-### Langages & Data Science
-<img src="https://skillicons.dev/icons?i=python,r,mysql&theme=dark" />
+### Données & Programmation
+<img src="https://skillicons.dev/icons?i=python,r,mysql,sklearn&theme=dark" />
 
 ### Big Data & DevOps
 <img src="https://skillicons.dev/icons?i=kafka,docker,elasticsearch,git,github,vscode&theme=dark" />
@@ -45,175 +41,82 @@ Je m'intéresse aussi à la **transformation digitale des entreprises** dans des
 ### Outils & BI
 <img src="https://skillicons.dev/icons?i=jupyter,anaconda,linux&theme=dark" />
 
-</div>
-
----
-
-## 📊 Compétences
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-**Domaine**             | **Niveau**
-------------------------|--------------------------------------------------
-🐍 Python               | `████████████████████` 85%
-🗄️ SQL / MySQL          | `████████████████████` 80%
-📡 Apache Kafka         | `████████████████████` 80%
-🤖 Machine Learning     | `███████████████████░` 78%
-🔍 Elasticsearch        | `███████████████████░` 78%
-📊 Power BI             | `██████████████████░░` 75%
-🐳 Docker               | `██████████████████░░` 74%
-⚙️ Git / CI-CD          | `█████████████████░░░` 72%
-
-</td>
-<td>
-
-```
-          Python
-            ●
-       DevOps   Big Data
-      ●               ●
-   Git/CI              Kafka
-      ●               ●
-       BI & Viz   ML
-            ●
-           SQL
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=awatifbechir14-blip&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awatifbechir14-blip&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&text_color=FFFFFF" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=awatifbechir14-blip&theme=midnight-purple&hide_border=true&background=0D1117&ring=9B59B6&fire=D2B4DE&currStreakLabel=9B59B6" height="165"/>
-
-</div>
+| Domaine | Outils et méthodes |
+|---|---|
+| **Analyse & Reporting** | Excel, Power Query, Power BI, data visualisation, KPI, tableaux de bord, Kibana |
+| **Données & Programmation** | SQL / MySQL (window functions, CTE, triggers, procédures stockées), Python (pandas, matplotlib, seaborn), R, PySpark |
+| **Big Data & Automatisation** | Kafka, Elasticsearch, Docker, DVC, CI/CD GitHub Actions |
+| **Maths & Statistiques** | Statistiques descriptives, données de panel, régression logistique, économétrie, PageRank, Word2Vec |
+| **Modélisation & documentation** | Dataverse, modélisation de données, dossier fonctionnel |
+| **Langues** | Français (langue maternelle) · Anglais (A2) · Arabe (B1) |
 
 ---
 
 ## 🚀 Projets
 
-> 💡 Clique sur une carte pour accéder directement au code, aux notebooks, aux fichiers et à la documentation de chaque projet.
-
-<br/>
+> 💡 Clique sur une carte pour accéder au code, aux notebooks et à la documentation de chaque projet.
 
 ### 🔴 Big Data & Streaming
 
-<div align="center">
-
-[![Projet-DataScience-](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=Projet-DataScience-&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/Projet-DataScience-)
-[![bidabi-projet-bigdata](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-projet-bigdata&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-projet-bigdata)
-[![bigdata-clone-public](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bigdata-clone-public&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bigdata-clone-public)
-
-</div>
+[![Projet-DataScience-](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=Projet-DataScience-&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&icon_color=9BB7E0&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/Projet-DataScience-)
+[![bidabi-projet-bigdata](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-projet-bigdata&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&icon_color=9BB7E0&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-projet-bigdata)
 
 | Projet | Description | Stack |
-|--------|-------------|-------|
-| [🫀 Surveillance Cardiaque](https://github.com/awatifbechir14-blip/Projet-DataScience-) | Pipeline temps réel : Kafka → Elasticsearch → Kibana. Détection d'anomalies tensionnelles (seuils FHIR) via Docker Compose | `Python` `Kafka` `Elasticsearch` `Kibana` `Docker` |
-| [📦 BIDABI Projet Big Data](https://github.com/awatifbechir14-blip/bidabi-projet-bigdata) | Projet académique Big Data — architecture distribuée, traitement de données à grande échelle | `Python` `Big Data` `Distributed Computing` |
-| [🔁 Big Data Clone Public](https://github.com/awatifbechir14-blip/bigdata-clone-public) | Implémentation et reproduction d'un pipeline Big Data dans un contexte pédagogique | `Python` `Big Data` |
+|---|---|---|
+| [🫀 Surveillance de la tension artérielle](https://github.com/awatifbechir14-blip/Projet-DataScience-) | Pipeline temps réel Kafka → Elasticsearch → Kibana : ingestion, détection d'anomalies (seuils FHIR), alertes et dashboards de suivi | `Python` `Kafka` `Elasticsearch` `Kibana` `Docker` |
+| [📦 BIDABI Projet Big Data](https://github.com/awatifbechir14-blip/bidabi-projet-bigdata) | Architecture distribuée et traitement de données à grande échelle | `Python` `Big Data` |
 
-<br/>
+### 📊 Analyse de données & Économétrie
 
-### 🤖 Machine Learning & Deep Learning
-
-<div align="center">
-
-[![ml_project](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=ml_project&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/ml_project)
-[![bidabi-clone-alone](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-clone-alone&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-clone-alone)
-[![bidabi-clone-adapt-create](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-clone-adapt-create&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-clone-adapt-create)
-
-</div>
+[![Projet-R-Dataviz](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=Projet-R-Dataviz&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&icon_color=9BB7E0&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/Projet-R-Dataviz)
+[![classicmodels-analysis](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=classicmodels-analysis&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&icon_color=9BB7E0&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/classicmodels-analysis)
 
 | Projet | Description | Stack |
-|--------|-------------|-------|
-| [🤖 ML Pipeline FR→EN](https://github.com/awatifbechir14-blip/ml_project) | Pipeline de traduction automatique HelsinkiNLP, évaluation BLEU, tests pytest, CI/CD GitHub Actions | `Python` `HuggingFace` `BLEU` `pytest` `GitHub Actions` |
-| [🧠 BIDABI Clone Alone](https://github.com/awatifbechir14-blip/bidabi-clone-alone) | Fine-tuning ResNet18 sur dataset personnalisé, versioning DVC, structure reproductible | `Python` `ResNet18` `DVC` `Deep Learning` |
-| [🔬 Clone → Adapt → Create](https://github.com/awatifbechir14-blip/bidabi-clone-adapt-create) | Progression pédagogique ML : cloner un modèle, l'adapter, en créer un nouveau | `Python` `ML` `DVC` |
+|---|---|---|
+| [📈 Modèles de régression logistique](https://github.com/awatifbechir14-blip/Projet-R-Dataviz) | Logit ordonné (données Yuka) et logit binaire (EURO STOXX 600) : variables significatives, comparaison AIC/BIC, graphiques ggplot2 | `R` `ggplot2` `Logit` `Économétrie` |
+| [🗃️ Analyse SQL — ClassicModels](https://github.com/awatifbechir14-blip/classicmodels-analysis) | Requêtes avancées MySQL (window functions, CTE, triggers, procédures stockées) et visualisations Python | `MySQL` `Python` `pandas` `seaborn` |
+| [📚 SQL — cours et exercices](https://github.com/awatifbechir14-blip/SQL_cours) | Notebooks SQL progressifs : DDL, DML, DQL, fonctions avancées | `SQL` `MySQL` |
 
-<br/>
+### 🤖 Machine Learning & MLOps
 
-### 🗄️ SQL, Bases de Données & Analyse
-
-<div align="center">
-
-[![classicmodels-analysis](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=classicmodels-analysis&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/classicmodels-analysis)
-[![SQL_cours](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=SQL_cours&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/SQL_cours)
-
-</div>
+[![ml_project](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=ml_project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&icon_color=9BB7E0&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/ml_project)
+[![bidabi-clone-alone](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=bidabi-clone-alone&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&icon_color=9BB7E0&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/bidabi-clone-alone)
 
 | Projet | Description | Stack |
-|--------|-------------|-------|
-| [🗃️ ClassicModels Analysis](https://github.com/awatifbechir14-blip/classicmodels-analysis) | Requêtes avancées MySQL : window functions, CTEs, triggers, stored procedures + visualisations Python | `MySQL` `Python` `Pandas` `Seaborn` |
-| [📚 SQL Cours](https://github.com/awatifbechir14-blip/SQL_cours) | Notebooks et exercices SQL progressifs — DDL, DML, DQL, fonctions avancées | `SQL` `MySQL` |
+|---|---|---|
+| [🤖 Pipeline MLOps FR→EN](https://github.com/awatifbechir14-blip/ml_project) | Traduction automatique HuggingFace, évaluation BLEU, tests pytest, CI/CD GitHub Actions | `Python` `HuggingFace` `pytest` `GitHub Actions` |
+| [🧠 Fine-tuning ResNet18](https://github.com/awatifbechir14-blip/bidabi-clone-alone) | Fine-tuning sur jeu de données personnalisé, versioning DVC, structure reproductible | `Python` `ResNet18` `DVC` |
+| [🔬 Clone → Adapt → Create](https://github.com/awatifbechir14-blip/bidabi-clone-adapt-create) | Reprendre un projet open source, l'adapter, puis en créer un nouveau | `Python` `ML` `DVC` |
 
-<br/>
+---
 
-### 📊 Data Visualisation & R
+## 📈 Statistiques GitHub
 
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=awatifbechir14-blip&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&icon_color=9BB7E0&text_color=FFFFFF&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awatifbechir14-blip&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F5597&text_color=FFFFFF" />
 
-[![Projet-R-Dataviz](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=Projet-R-Dataviz&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/Projet-R-Dataviz)
-
-</div>
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [📈 Projet R Dataviz](https://github.com/awatifbechir14-blip/Projet-R-Dataviz) | Visualisations statistiques avancées en R : modèles Logit ordonné/binaire, graphiques ggplot2, analyse EURO STOXX 600 & Yuka | `R` `ggplot2` `Logit` `Econométrie` |
-
-<br/>
-
-### 🖥️ Autres
-
-<div align="center">
-
-[![desktop-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=awatifbechir14-blip&repo=desktop-tutorial&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF)](https://github.com/awatifbechir14-blip/desktop-tutorial)
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=awatifbechir14-blip&bg_color=0D1117&color=9BB7E0&line=2F5597&point=D2B4DE&hide_border=true" />
 
 ---
 
 ## 🎓 Formation
 
-**M1 Économie de l'Entreprise et des Marchés — Parcours BIDABI**
-*(Big Data, Analyse & Business Intelligence)*
-Université Sorbonne Paris Nord — Villetaneuse
+**M2 Économie de l'entreprise et des marchés — parcours BIDABI** *(Big Data, Analyse & Business Intelligence)*
+Université Sorbonne Paris Nord — Villetaneuse · 2025 – 2027
+*Data science, économétrie, PySpark, data visualisation, Power BI, mathématiques fondamentales du big data, programmation épurée.*
 
-Cours : Big Data (HDFS, NoSQL, Kafka), Machine Learning, Business Intelligence, Statistiques appliquées, Industry 4.0, Gestion de projet.
+**Double Licence Mathématiques-Économie**
+Université Évry Paris-Saclay · 2022 – 2025
+*Algèbre linéaire, analyse, algorithmique, méthodes numériques, statistiques et R, mathématiques financières, économie internationale.*
 
 ---
 
 ## 🤝 Me contacter
 
-<div align="center">
+Je recherche un **stage de fin d'études de 6 mois à partir de mars 2027** en Data Analyse ou Business Intelligence, et je suis ouverte à toute collaboration sur des projets **data**, **BI** ou **machine learning**.
 
-Ouverte à toute collaboration sur des projets **Data Engineering**, **Machine Learning** ou **Business Intelligence** !
+[![LinkedIn](https://img.shields.io/badge/Me%20contacter%20sur%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awatif-bechir-youssouf-447813258/)
+[![Email](https://img.shields.io/badge/M'%C3%A9crire%20un%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awatifbechir14@gmail.com)
 
-<a href="https://www.linkedin.com/in/awatif-bechir-447813258/">
-  <img src="https://img.shields.io/badge/Me%20contacter%20sur%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3483,50:9B59B6,100:D2B4DE&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3461,50:2F5597,100:9BB7E0&height=100&section=footer" />
 
